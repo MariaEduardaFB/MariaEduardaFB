@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h2 align="left">Hi👋! My name is Eduarda Batista and I'm a Developer, from Brazil</h2>
 
 ###
